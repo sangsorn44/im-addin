@@ -21,7 +21,7 @@ function defaultStatus(event) {
 function justTest(event) {
 
   //window.location.href = "https://www.google.co.th";
-  window.open("https://www.google.co.th/");
+  window.open("https://www.pttgcgroup.com/");
   event.completed();
 
   //openDialog();
